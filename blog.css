@@ -1,0 +1,19 @@
+body {
+  font-family: "Montserrat";
+  text-align: center;
+    background-color: #ef8172;
+}
+
+.about {
+  font-family: "Montserrat";
+  color: grey;
+
+
+}
+
+
+.big-heading {
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
